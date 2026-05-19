@@ -26,10 +26,6 @@ A comprehensive, real-time statistics dashboard for the Scratch community with a
 - ✅ Input validation and sanitization
 - ✅ Token-based session management
 
-## 👤 Admin Account
-
-**Username:** `Admin1`
-**Password:** `Scratch@Admin2024!Secure`
 
 ## 🚀 Getting Started
 
