@@ -538,6 +538,22 @@ body {
     margin-top: 0.5rem;
 }
 
+/* Featured Link Styling */
+.featured-link {
+    text-decoration: none;
+    display: block;
+    color: inherit;
+}
+
+.featured-link:hover strong {
+    color: #667eea;
+}
+
+.featured-link:hover {
+    background: #efefef;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+}
+
 /* Admin Panel */
 .admin-panel {
     background: white;
